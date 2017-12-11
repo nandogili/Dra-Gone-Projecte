@@ -1384,3 +1384,751 @@ LogInit: Object subsystem initialized
 [2017.12.11-17.49.51:757][804]LogSavePackage: Save=39.43ms
 [2017.12.11-17.49.51:757][804]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/ThirdPersonExampleMap_BuiltDataACF4A0BB462716A40E7EC88F341E14C1.tmp' to '../../../../../Projectes Unreal/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2017.12.11-17.49.51:758][804]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.12.11-17.57.31:401][795]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-17.57.31:409][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-17.57.31:409][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-17.57.31:409][795]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 7:57:31 PM)
+[2017.12.11-17.57.31:409][795]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-17.57.31:434][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025516s)
+[2017.12.11-17.57.31:435][795]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-17.57.31:435][795]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2017.12.11-17.57.31:435][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026466s)
+[2017.12.11-17.57.31:483][795]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-17.57.31:493][795]LogInit: FAudioDevice initialized.
+[2017.12.11-17.57.31:525][795]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-17.57.31:528][795]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-18.57.31
+[2017.12.11-17.57.31:528][795]LogWorld: Bringing up level for play took: 0.001698
+[2017.12.11-17.57.31:529][795]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.071
+[2017.12.11-17.57.31:529][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-17.57.48:101][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-17.57.48:166][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-17.57.56:564][777]LogEditorViewport: Clicking on Actor (LMB): Destructible_WallsWithCharge_C (Destructible_Objects2)
+[2017.12.11-17.57.59:132][ 78]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.12.11-18.00.09:073][ 66]LogSavePackage: Save=170.24ms
+[2017.12.11-18.00.09:073][ 66]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/ThirdPersonExampleMap_Auto53DFDABCB473A8EB15C447C973C7B68BA.tmp' to '../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2017.12.11-18.00.09:086][ 66]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2017.12.11-18.00.09:087][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.222
+[2017.12.11-18.00.09:087][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.222
+[2017.12.11-18.35.18:041][128]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.012
+[2017.12.11-18.35.18:043][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dra_Projectile/Projectile] ([1] browsable assets)...
+[2017.12.11-18.35.18:043][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dra_Projectile/Projectile]
+[2017.12.11-18.35.18:043][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dra_Projectile/Projectile" FILE="../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/Dra_Projectile/Projectile_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2017.12.11-18.35.18:051][128]LogSavePackage: Save=6.46ms
+[2017.12.11-18.35.18:051][128]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Projectile_Auto6513800FB428665C8F766BCB5672AB61D.tmp' to '../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/Dra_Projectile/Projectile_Auto6.uasset'
+[2017.12.11-18.35.18:051][128]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/Dra_Projectile/Projectile_Auto6.uasset
+[2017.12.11-18.35.18:051][128]LogFileHelpers: Auto-saving content packages took 0.008
+[2017.12.11-18.36.14:244][653]LogEditorTransaction: Undo Edit Static Mesh
+[2017.12.11-18.40.16:840][938]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.40.16:849][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.40.16:849][938]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.11-18.40.16:849][938]LogPlayLevel: [PlayLevel] Compiling Projectile before play...
+[2017.12.11-18.40.17:073][938]LogPlayLevel: PlayLevel: Blueprint regeneration took 223 ms (1 blueprints)
+[2017.12.11-18.40.17:073][938]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:40:17 PM)
+[2017.12.11-18.40.17:073][938]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.40.17:090][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017419s)
+[2017.12.11-18.40.17:091][938]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.40.17:091][938]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2017.12.11-18.40.17:091][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018250s)
+[2017.12.11-18.40.17:109][938]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.40.17:118][938]LogInit: FAudioDevice initialized.
+[2017.12.11-18.40.17:157][938]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.40.17:160][938]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.40.17
+[2017.12.11-18.40.17:161][938]LogWorld: Bringing up level for play took: 0.002571
+[2017.12.11-18.40.17:162][938]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.438
+[2017.12.11-18.40.17:162][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.40.20:628][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.40.20:662][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.40.45:982][360]BlueprintLog: New page: Compile Projectile
+[2017.12.11-18.40.46:588][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dra_Projectile/Projectile" FILE="../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset" SILENT=true
+[2017.12.11-18.40.46:604][421]LogSavePackage: Save=15.22ms
+[2017.12.11-18.40.46:604][421]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Projectile88E55DC4414AC70B45F5AFB8DD3F72B9.tmp' to '../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset'
+[2017.12.11-18.40.46:605][421]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset
+[2017.12.11-18.42.11:657][579]BlueprintLog: New page: Compile Projectile
+[2017.12.11-18.42.12:390][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dra_Projectile/Projectile" FILE="../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset" SILENT=true
+[2017.12.11-18.42.12:411][635]LogSavePackage: Save=19.14ms
+[2017.12.11-18.42.12:411][635]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Projectile0D5FC3664F6A9E5A6594DC9B0832AD2E.tmp' to '../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset'
+[2017.12.11-18.42.12:412][635]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset
+[2017.12.11-18.42.46:849][717]BlueprintLog: New page: Compile Projectile
+[2017.12.11-18.42.47:582][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dra_Projectile/Projectile" FILE="../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset" SILENT=true
+[2017.12.11-18.42.47:604][793]LogSavePackage: Save=20.82ms
+[2017.12.11-18.42.47:604][793]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Projectile27EB76E448B18458944F06A25475773E.tmp' to '../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset'
+[2017.12.11-18.42.47:606][793]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset
+[2017.12.11-18.42.54:996][667]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.42.55:002][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.42.55:002][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.42.55:002][667]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:42:55 PM)
+[2017.12.11-18.42.55:002][667]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.42.55:017][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014660s)
+[2017.12.11-18.42.55:018][667]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.42.55:018][667]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2017.12.11-18.42.55:018][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015622s)
+[2017.12.11-18.42.55:036][667]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.42.55:044][667]LogInit: FAudioDevice initialized.
+[2017.12.11-18.42.55:076][667]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.42.55:079][667]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.42.55
+[2017.12.11-18.42.55:079][667]LogWorld: Bringing up level for play took: 0.001600
+[2017.12.11-18.42.55:080][667]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.52
+[2017.12.11-18.42.55:080][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.42.59:374][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.42.59:407][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.43.02:183][509]LogEditorViewport: Clicking on Actor (LMB): Projectile_C (Projectile)
+[2017.12.11-18.43.28:180][627]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.43.28:186][627]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.43.28:186][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.43.28:186][627]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:43:28 PM)
+[2017.12.11-18.43.28:186][627]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.43.28:200][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013473s)
+[2017.12.11-18.43.28:200][627]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.43.28:200][627]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2017.12.11-18.43.28:200][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014253s)
+[2017.12.11-18.43.28:217][627]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.43.28:224][627]LogInit: FAudioDevice initialized.
+[2017.12.11-18.43.28:258][627]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.43.28:261][627]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.43.28
+[2017.12.11-18.43.28:261][627]LogWorld: Bringing up level for play took: 0.001472
+[2017.12.11-18.43.28:262][627]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.662
+[2017.12.11-18.43.28:262][627]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.43.34:108][323]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.43.34:140][323]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.43.35:351][465]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.43.35:357][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.43.35:357][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.43.35:357][465]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:43:35 PM)
+[2017.12.11-18.43.35:357][465]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.43.35:370][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013546s)
+[2017.12.11-18.43.35:371][465]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.43.35:371][465]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2017.12.11-18.43.35:371][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014283s)
+[2017.12.11-18.43.35:389][465]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.43.35:396][465]LogInit: FAudioDevice initialized.
+[2017.12.11-18.43.35:426][465]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.43.35:429][465]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.43.35
+[2017.12.11-18.43.35:429][465]LogWorld: Bringing up level for play took: 0.001522
+[2017.12.11-18.43.35:430][465]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.17
+[2017.12.11-18.43.35:430][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.43.40:254][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.43.40:290][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.45.31:200][268]BlueprintLog: New page: Compile Projectile
+[2017.12.11-18.45.31:699][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dra_Projectile/Projectile" FILE="../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset" SILENT=true
+[2017.12.11-18.45.31:722][310]LogSavePackage: Save=21.03ms
+[2017.12.11-18.45.31:722][310]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Projectile3AC934F247D313A461DEA1BD49E74D90.tmp' to '../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset'
+[2017.12.11-18.45.31:723][310]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset
+[2017.12.11-18.45.33:295][490]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.45.33:302][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.45.33:302][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.45.33:302][490]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:45:33 PM)
+[2017.12.11-18.45.33:302][490]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.45.33:316][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013874s)
+[2017.12.11-18.45.33:317][490]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.45.33:317][490]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2017.12.11-18.45.33:317][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014745s)
+[2017.12.11-18.45.33:334][490]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.45.33:341][490]LogInit: FAudioDevice initialized.
+[2017.12.11-18.45.33:376][490]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.45.33:381][490]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.45.33
+[2017.12.11-18.45.33:382][490]LogWorld: Bringing up level for play took: 0.003136
+[2017.12.11-18.45.33:383][490]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.217
+[2017.12.11-18.45.33:383][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.45.35:886][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.45.35:921][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.45.37:491][970]LogEditorViewport: Clicking on Actor (LMB): Projectile_C (Projectile)
+[2017.12.11-18.45.38:560][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.11-18.45.46:186][  8]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.11-18.46.15:197][486]LogEditorViewport: Clicking on Actor (LMB): Projectile_C (Projectile)
+[2017.12.11-18.46.20:389][104]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.46.20:395][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.46.20:395][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.46.20:395][104]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:46:20 PM)
+[2017.12.11-18.46.20:395][104]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.46.20:410][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014137s)
+[2017.12.11-18.46.20:410][104]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.46.20:410][104]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2017.12.11-18.46.20:411][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015134s)
+[2017.12.11-18.46.20:428][104]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.46.20:436][104]LogInit: FAudioDevice initialized.
+[2017.12.11-18.46.20:464][104]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.46.20:469][104]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.46.20
+[2017.12.11-18.46.20:470][104]LogWorld: Bringing up level for play took: 0.002929
+[2017.12.11-18.46.20:471][104]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.871
+[2017.12.11-18.46.20:471][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.46.22:213][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.46.22:248][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.46.23:503][455]Cmd: TRANSACTION UNDO
+[2017.12.11-18.46.23:503][455]LogEditorTransaction: Undo Scale Actors
+[2017.12.11-18.46.24:072][522]Cmd: TRANSACTION UNDO
+[2017.12.11-18.46.24:072][522]LogEditorTransaction: Undo Scale Actors
+[2017.12.11-18.46.26:335][793]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.46.26:341][793]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.46.26:341][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.46.26:341][793]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:46:26 PM)
+[2017.12.11-18.46.26:341][793]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.46.26:355][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013164s)
+[2017.12.11-18.46.26:355][793]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.46.26:355][793]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2017.12.11-18.46.26:355][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013892s)
+[2017.12.11-18.46.26:371][793]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.46.26:379][793]LogInit: FAudioDevice initialized.
+[2017.12.11-18.46.26:411][793]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.46.26:414][793]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.46.26
+[2017.12.11-18.46.26:414][793]LogWorld: Bringing up level for play took: 0.001577
+[2017.12.11-18.46.26:415][793]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.815
+[2017.12.11-18.46.26:415][793]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.46.29:664][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.46.29:698][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.46.54:788][168]LogSavePackage: Save=135.40ms
+[2017.12.11-18.46.54:788][168]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/ThirdPersonExampleMap_Auto78EF65B464A1E8E96AD34ABA91AE5CDFA.tmp' to '../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2017.12.11-18.46.54:789][168]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap
+[2017.12.11-18.46.54:790][168]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.154
+[2017.12.11-18.46.54:790][168]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.154
+[2017.12.11-18.48.58:353][448]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.11-18.51.07:773][837]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.11-18.51.08:570][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../Projectes Unreal/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.12.11-18.51.08:651][909]LogSavePackage: Save=78.92ms
+[2017.12.11-18.51.08:651][909]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/ThirdPersonCharacter15D4A7AC45B71A48815BDABF13EDE253.tmp' to '../../../../../Projectes Unreal/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.11-18.51.08:653][909]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.11-18.51.14:525][586]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.51.14:532][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.51.14:532][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.51.14:532][586]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:51:14 PM)
+[2017.12.11-18.51.14:532][586]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.51.14:547][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014425s)
+[2017.12.11-18.51.14:548][586]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.51.14:548][586]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2017.12.11-18.51.14:548][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015223s)
+[2017.12.11-18.51.14:567][586]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.51.14:575][586]LogInit: FAudioDevice initialized.
+[2017.12.11-18.51.14:606][586]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.51.14:609][586]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.51.14
+[2017.12.11-18.51.14:609][586]LogWorld: Bringing up level for play took: 0.001604
+[2017.12.11-18.51.14:610][586]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.01
+[2017.12.11-18.51.14:610][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.52.17:498][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.52.17:534][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.54.03:849][345]BlueprintLog: New page: Compile Projectile
+[2017.12.11-18.54.04:441][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dra_Projectile/Projectile" FILE="../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset" SILENT=true
+[2017.12.11-18.54.04:977][397]LogSavePackage: Save=530.22ms
+[2017.12.11-18.54.04:977][397]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Projectile47516CE44A20372E21820491E6E79B9F.tmp' to '../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset'
+[2017.12.11-18.54.04:979][397]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/Dra_Projectile/Projectile.uasset
+[2017.12.11-18.54.07:354][659]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.54.07:361][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.54.07:361][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.54.07:361][659]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:54:07 PM)
+[2017.12.11-18.54.07:362][659]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.54.07:375][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013964s)
+[2017.12.11-18.54.07:376][659]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.54.07:376][659]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2017.12.11-18.54.07:376][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014758s)
+[2017.12.11-18.54.07:393][659]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.54.07:401][659]LogInit: FAudioDevice initialized.
+[2017.12.11-18.54.07:433][659]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.54.07:436][659]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.54.07
+[2017.12.11-18.54.07:436][659]LogWorld: Bringing up level for play took: 0.001478
+[2017.12.11-18.54.07:436][659]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.163
+[2017.12.11-18.54.07:437][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.54.26:753][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.54.26:789][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.54.30:244][382]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.11-18.54.32:672][665]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.11-18.54.32:924][694]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FollowCamera)
+[2017.12.11-18.54.33:139][706]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FollowCamera)
+[2017.12.11-18.54.39:082][415]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.54.39:088][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.54.39:088][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.54.39:089][415]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:54:39 PM)
+[2017.12.11-18.54.39:089][415]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.54.39:099][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010433s)
+[2017.12.11-18.54.39:099][415]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.54.39:100][415]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2017.12.11-18.54.39:100][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011251s)
+[2017.12.11-18.54.39:139][415]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.54.39:147][415]LogInit: FAudioDevice initialized.
+[2017.12.11-18.54.39:176][415]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.54.39:178][415]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.54.39
+[2017.12.11-18.54.39:179][415]LogWorld: Bringing up level for play took: 0.001593
+[2017.12.11-18.54.39:179][415]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.42
+[2017.12.11-18.54.39:180][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.54.46:397][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.54.46:453][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.54.49:759][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.11-18.54.56:893][514]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.54.56:900][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.54.56:900][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.54.56:900][514]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:54:56 PM)
+[2017.12.11-18.54.56:900][514]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.54.56:910][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010106s)
+[2017.12.11-18.54.56:911][514]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.54.56:911][514]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2017.12.11-18.54.56:911][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010924s)
+[2017.12.11-18.54.56:927][514]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.54.56:935][514]LogInit: FAudioDevice initialized.
+[2017.12.11-18.54.56:964][514]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.54.56:967][514]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.54.56
+[2017.12.11-18.54.56:967][514]LogWorld: Bringing up level for play took: 0.001552
+[2017.12.11-18.54.56:968][514]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.633
+[2017.12.11-18.54.56:968][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.06:923][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.06:968][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.08:042][831]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.55.08:049][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.08:049][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.55.08:049][831]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:55:08 PM)
+[2017.12.11-18.55.08:049][831]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.55.08:059][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010261s)
+[2017.12.11-18.55.08:060][831]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.55.08:060][831]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2017.12.11-18.55.08:060][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011011s)
+[2017.12.11-18.55.08:077][831]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.55.08:085][831]LogInit: FAudioDevice initialized.
+[2017.12.11-18.55.08:117][831]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.55.08:120][831]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.55.08
+[2017.12.11-18.55.08:120][831]LogWorld: Bringing up level for play took: 0.001541
+[2017.12.11-18.55.08:121][831]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.521
+[2017.12.11-18.55.08:121][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.15:508][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.15:550][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.32:482][742]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.55.32:488][742]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.32:488][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.55.32:488][742]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:55:32 PM)
+[2017.12.11-18.55.32:488][742]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.55.32:498][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010223s)
+[2017.12.11-18.55.32:499][742]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.55.32:499][742]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2017.12.11-18.55.32:499][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010980s)
+[2017.12.11-18.55.32:515][742]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.55.32:522][742]LogInit: FAudioDevice initialized.
+[2017.12.11-18.55.32:561][742]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.55.32:570][742]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.55.32
+[2017.12.11-18.55.32:571][742]LogWorld: Bringing up level for play took: 0.005723
+[2017.12.11-18.55.32:573][742]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.973
+[2017.12.11-18.55.32:574][742]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.47:651][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.47:694][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.49:908][809]LogEditorViewport: Clicking on Actor (LMB): Projectile_C (Projectile)
+[2017.12.11-18.55.50:585][888]Cmd: DELETE
+[2017.12.11-18.55.50:585][888]Cmd: ACTOR DELETE
+[2017.12.11-18.55.50:585][888]LogEditorActor: Deleted Actor: Projectile_C
+[2017.12.11-18.55.50:596][888]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.12.11-18.55.53:782][269]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.55.53:788][269]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.55.53:788][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.55.53:788][269]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:55:53 PM)
+[2017.12.11-18.55.53:788][269]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.55.53:798][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010133s)
+[2017.12.11-18.55.53:799][269]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.55.53:799][269]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2017.12.11-18.55.53:799][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010891s)
+[2017.12.11-18.55.53:815][269]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.55.53:823][269]LogInit: FAudioDevice initialized.
+[2017.12.11-18.55.53:853][269]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.55.53:858][269]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.55.53
+[2017.12.11-18.55.53:859][269]LogWorld: Bringing up level for play took: 0.002925
+[2017.12.11-18.55.53:860][269]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.26
+[2017.12.11-18.55.53:861][269]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.56.23:847][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.56.23:880][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.58.39:217][575]LogBlueprint:Warning: [Compiler ] Warning Pasted node  CustomEvent   conflicted with  On Component Hit (StaticMeshComponent)  and was replaced as a Custom Event!
+[2017.12.11-18.58.39:225][575]BlueprintEditorCompileResults:Warning: Warning Pasted node  CustomEvent   conflicted with  On Component Hit (StaticMeshComponent)  and was replaced as a Custom Event!
+[2017.12.11-18.59.03:612][460]BlueprintEditorCompileResults:Warning: Warning Pasted node  CustomEvent   conflicted with  On Component Hit (StaticMeshComponent)  and was replaced as a Custom Event!
+[2017.12.11-18.59.33:333][996]LogSavePackage: Save=146.32ms
+[2017.12.11-18.59.33:333][996]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/ThirdPersonExampleMap_Auto89C1387E949D0DDD219A4FBB4D202882D.tmp' to '../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2017.12.11-18.59.33:333][996]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap
+[2017.12.11-18.59.33:334][996]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.166
+[2017.12.11-18.59.33:334][996]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.166
+[2017.12.11-18.59.33:335][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Destructible_Object/Destructible_WallsWithCharge] ([1] browsable assets)...
+[2017.12.11-18.59.33:344][996]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Destructible_Object/Destructible_WallsWithCharge.Destructible_WallsWithCharge]
+[2017.12.11-18.59.33:344][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/Destructible_Object/Destructible_WallsWithCharge]
+[2017.12.11-18.59.33:368][996]LogSavePackage: Save=21.92ms
+[2017.12.11-18.59.33:368][996]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Destructible_WallsWithCharge_Auto81508F9BB4772E62CFC4D9FA91FA7E643.tmp' to '../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/Destructible_Object/Destructible_WallsWithCharge_Auto8.uasset'
+[2017.12.11-18.59.33:369][996]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/Destructible_Object/Destructible_WallsWithCharge_Auto8.uasset
+[2017.12.11-18.59.33:369][996]LogFileHelpers: Auto-saving content packages took 0.034
+[2017.12.11-18.59.41:302][943]BlueprintLog: New page: Compile Destructible_WallsWithCharge
+[2017.12.11-18.59.41:903][998]LogSavePackage: Save=22.36ms
+[2017.12.11-18.59.41:903][998]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Destructible_WallsWithCharge44A6BE80418C3D233525A582F03933D5.tmp' to '../../../../../Projectes Unreal/DraGone/Content/Destructible_Object/Destructible_WallsWithCharge.uasset'
+[2017.12.11-18.59.41:904][998]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/Destructible_Object/Destructible_WallsWithCharge.uasset
+[2017.12.11-18.59.43:910][232]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-18.59.43:917][232]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.59.43:917][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-18.59.43:917][232]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 8:59:43 PM)
+[2017.12.11-18.59.43:917][232]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-18.59.43:928][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010861s)
+[2017.12.11-18.59.43:929][232]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-18.59.43:929][232]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2017.12.11-18.59.43:929][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011628s)
+[2017.12.11-18.59.43:945][232]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-18.59.43:953][232]LogInit: FAudioDevice initialized.
+[2017.12.11-18.59.43:980][232]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-18.59.43:983][232]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-19.59.43
+[2017.12.11-18.59.43:983][232]LogWorld: Bringing up level for play took: 0.001484
+[2017.12.11-18.59.43:985][232]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.385
+[2017.12.11-18.59.43:985][232]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.59.50:333][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-18.59.50:367][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.01.09:667][356]BlueprintLog: New page: Compile Destructible_WallsWithCharge
+[2017.12.11-19.01.10:157][400]LogSavePackage: Save=22.15ms
+[2017.12.11-19.01.10:157][400]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Destructible_WallsWithCharge800150A449DE8A3B67AC1F8976CC3A80.tmp' to '../../../../../Projectes Unreal/DraGone/Content/Destructible_Object/Destructible_WallsWithCharge.uasset'
+[2017.12.11-19.01.10:158][400]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/Destructible_Object/Destructible_WallsWithCharge.uasset
+[2017.12.11-19.01.11:813][591]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-19.01.11:819][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.01.11:819][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-19.01.11:819][591]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 9:01:11 PM)
+[2017.12.11-19.01.11:819][591]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-19.01.11:829][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010096s)
+[2017.12.11-19.01.11:829][591]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-19.01.11:830][591]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2017.12.11-19.01.11:830][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010847s)
+[2017.12.11-19.01.11:847][591]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-19.01.11:854][591]LogInit: FAudioDevice initialized.
+[2017.12.11-19.01.11:882][591]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-19.01.11:885][591]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-20.01.11
+[2017.12.11-19.01.11:886][591]LogWorld: Bringing up level for play took: 0.002548
+[2017.12.11-19.01.11:887][591]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.288
+[2017.12.11-19.01.11:888][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.01.16:518][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.01.16:551][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.01.34:833][329]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-19.01.34:839][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.01.34:839][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-19.01.34:839][329]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 9:01:34 PM)
+[2017.12.11-19.01.34:839][329]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-19.01.34:849][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009882s)
+[2017.12.11-19.01.34:850][329]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-19.01.34:850][329]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2017.12.11-19.01.34:850][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010727s)
+[2017.12.11-19.01.34:866][329]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-19.01.34:874][329]LogInit: FAudioDevice initialized.
+[2017.12.11-19.01.34:905][329]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-19.01.34:908][329]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-20.01.34
+[2017.12.11-19.01.34:908][329]LogWorld: Bringing up level for play took: 0.001393
+[2017.12.11-19.01.34:908][329]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.692
+[2017.12.11-19.01.34:909][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.01.45:861][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.01.45:889][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.04.07:460][460]LogBlueprint:Warning: [Compiler ] Warning Pasted node  CustomEvent   conflicted with  On Component Hit (StaticMeshComponent)  and was replaced as a Custom Event!
+[2017.12.11-19.04.07:469][460]BlueprintEditorCompileResults:Warning: Warning Pasted node  CustomEvent   conflicted with  On Component Hit (StaticMeshComponent)  and was replaced as a Custom Event!
+[2017.12.11-19.04.23:846][387]BlueprintLog: New page: Compile Destructible_WallsWithCharge
+[2017.12.11-19.04.24:330][429]LogSavePackage: Save=24.42ms
+[2017.12.11-19.04.24:330][429]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Destructible_WallsWithCharge686025214F9E5EF2460D5B9EA4F48E4C.tmp' to '../../../../../Projectes Unreal/DraGone/Content/Destructible_Object/Destructible_WallsWithCharge.uasset'
+[2017.12.11-19.04.24:331][429]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/Destructible_Object/Destructible_WallsWithCharge.uasset
+[2017.12.11-19.04.29:759][ 66]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.11-19.04.29:765][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.04.29:765][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.11-19.04.29:765][ 66]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2017, 9:04:29 PM)
+[2017.12.11-19.04.29:765][ 66]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.11-19.04.29:779][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013401s)
+[2017.12.11-19.04.29:779][ 66]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.11-19.04.29:779][ 66]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2017.12.11-19.04.29:779][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014228s)
+[2017.12.11-19.04.29:797][ 66]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.11-19.04.29:805][ 66]LogInit: FAudioDevice initialized.
+[2017.12.11-19.04.29:837][ 66]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.11-19.04.29:842][ 66]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.11-20.04.29
+[2017.12.11-19.04.29:842][ 66]LogWorld: Bringing up level for play took: 0.002929
+[2017.12.11-19.04.29:844][ 66]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.244
+[2017.12.11-19.04.29:844][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.04.34:018][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.04.34:047][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.11-19.10.05:706][358]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.013
+[2017.12.11-19.10.05:707][358]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Destructible_Object/Destructible_WallsWithCharge] ([1] browsable assets)...
+[2017.12.11-19.10.05:715][358]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Destructible_Object/Destructible_WallsWithCharge.Destructible_WallsWithCharge]
+[2017.12.11-19.10.05:715][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/Destructible_Object/Destructible_WallsWithCharge]
+[2017.12.11-19.10.05:742][358]LogSavePackage: Save=23.16ms
+[2017.12.11-19.10.05:742][358]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Destructible_WallsWithCharge_Auto9A01C26194A90A48CE006FD8CE653022E.tmp' to '../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/Destructible_Object/Destructible_WallsWithCharge_Auto9.uasset'
+[2017.12.11-19.10.05:743][358]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Saved/Autosaves/Game/Destructible_Object/Destructible_WallsWithCharge_Auto9.uasset
+[2017.12.11-19.10.05:743][358]LogFileHelpers: Auto-saving content packages took 0.036
+[2017.12.11-19.10.07:405][552]BlueprintLog: New page: Compile Destructible_WallsWithCharge
+[2017.12.11-19.10.08:317][603]LogSavePackage: Save=22.83ms
+[2017.12.11-19.10.08:317][603]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/Destructible_WallsWithCharge0C820A444A5495F2FEF13E88719BFDBE.tmp' to '../../../../../Projectes Unreal/DraGone/Content/Destructible_Object/Destructible_WallsWithCharge.uasset'
+[2017.12.11-19.10.08:318][603]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/Destructible_Object/Destructible_WallsWithCharge.uasset
+[2017.12.11-19.16.15:112][ 80]LogSavePackage: Save=145.57ms
+[2017.12.11-19.16.15:112][ 80]LogSavePackage: Moving '../../../../../Projectes Unreal/DraGone/Saved/ThirdPersonExampleMap3DD081CD42BE7F4CE015C388CDF513B4.tmp' to '../../../../../Projectes Unreal/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.11-19.16.15:114][ 80]LogSavePackage:Display: Finished SavePackage ../../../../../Projectes Unreal/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.12.11-19.16.15:122][ 80]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.218
+[2017.12.11-19.16.19:680][570]Cmd: QUIT_EDITOR
+[2017.12.11-19.16.20:373][570]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.12.11-19.16.20:409][570]LogExit: Preparing to exit.
+[2017.12.11-19.16.21:034][570]LogDirectoryWatcher: A directory notification for 'D:/Projectes Unreal/DraGone/Content/' was aborted.
+[2017.12.11-19.16.21:095][570]LogExit: Editor shut down
+[2017.12.11-19.16.21:098][570]LogExit: Transaction tracking system shut down
+[2017.12.11-19.16.21:169][570]LogObj: Freed 0b from 0 cluster array pools.
+[2017.12.11-19.16.21:169][570]LogExit: Object subsystem successfully closed.
+[2017.12.11-19.16.21:185][570]LogD3D11RHI: Shutdown
+[2017.12.11-19.16.21:185][570]LogD3D11RHI: CleanupD3DDevice
+[2017.12.11-19.16.21:259][570]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.11-19.16.21:280][570]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (532)
+[2017.12.11-19.16.21:280][570]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (530)
+[2017.12.11-19.16.21:280][570]LogModuleManager: Shutting down and abandoning module BlueprintGraph (528)
+[2017.12.11-19.16.21:280][570]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (526)
+[2017.12.11-19.16.21:290][570]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (524)
+[2017.12.11-19.16.21:290][570]LogModuleManager: Shutting down and abandoning module CrashTracker (522)
+[2017.12.11-19.16.21:290][570]LogModuleManager: Shutting down and abandoning module SceneOutliner (520)
+[2017.12.11-19.16.21:290][570]LogModuleManager: Shutting down and abandoning module AddContentDialog (518)
+[2017.12.11-19.16.21:290][570]LogDirectoryWatcher: A directory notification for 'D:/Epic Games/UE_4.16/FeaturePacks/' was aborted.
+[2017.12.11-19.16.21:290][570]LogModuleManager: Shutting down and abandoning module WidgetCarousel (517)
+[2017.12.11-19.16.21:290][570]LogModuleManager: Shutting down and abandoning module EditorWidgets (514)
+[2017.12.11-19.16.21:290][570]LogModuleManager: Shutting down and abandoning module CollectionManager (512)
+[2017.12.11-19.16.21:290][570]LogDirectoryWatcher: A directory notification for 'D:/Projectes Unreal/DraGone/Content/Collections/' was aborted.
+[2017.12.11-19.16.21:290][570]LogDirectoryWatcher: A directory notification for 'D:/Projectes Unreal/DraGone/Content/Developers/JosepRojasCapell/Collections/' was aborted.
+[2017.12.11-19.16.21:291][570]LogDirectoryWatcher: A directory notification for 'D:/Projectes Unreal/DraGone/Saved/Collections/' was aborted.
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module StatsViewer (510)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module FoliageEdit (508)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module LandscapeEditor (506)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module MeshPaintMode (504)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (502)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module ActorPickerMode (500)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module GeometryMode (498)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module TextureAlignMode (496)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module BspMode (494)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module HardwareSurvey (492)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (490)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module AutomationWorker (488)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (486)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (484)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module PlacementMode (483)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (480)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (478)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (476)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (474)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (472)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module Media (471)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (468)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module CharacterAI (466)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module AudioCapture (464)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module SequenceRecorder (463)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module SmartSnapping (460)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module SessionServices (458)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module ViewportSnapping (456)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module ViewportInteraction (454)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module ClothPainter (452)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module LogVisualizer (450)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module IntroTutorials (448)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (447)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (444)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (442)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (440)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (438)
+[2017.12.11-19.16.21:291][570]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (437)
+[2017.12.11-19.16.22:129][570]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (434)
+[2017.12.11-19.16.22:129][570]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (432)
+[2017.12.11-19.16.22:129][570]LogModuleManager: Shutting down and abandoning module InputBindingEditor (430)
+[2017.12.11-19.16.22:129][570]LogModuleManager: Shutting down and abandoning module MergeActors (428)
+[2017.12.11-19.16.22:129][570]LogModuleManager: Shutting down and abandoning module SizeMap (426)
+[2017.12.11-19.16.22:129][570]LogModuleManager: Shutting down and abandoning module TreeMap (424)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module ReferenceViewer (422)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (420)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module LocalizationService (419)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module HardwareTargeting (416)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (414)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module UndoHistory (412)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module UserFeedback (410)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module XmlParser (408)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module Blutility (406)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (404)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (403)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (400)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module SettingsEditor (398)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module ProjectLauncher (396)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module SessionFrontend (394)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module ProfilerClient (392)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module DeviceManager (390)
+[2017.12.11-19.16.22:130][570]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (389)
+[2017.12.11-19.16.22:183][570]LogModuleManager: Shutting down and abandoning module AutomationController (386)
+[2017.12.11-19.16.22:183][570]LogModuleManager: Shutting down and abandoning module AutomationWindow (384)
+[2017.12.11-19.16.22:183][570]LogModuleManager: Shutting down and abandoning module Layers (382)
+[2017.12.11-19.16.22:183][570]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (380)
+[2017.12.11-19.16.22:183][570]LogModuleManager: Shutting down and abandoning module DetailCustomizations (378)
+[2017.12.11-19.16.22:183][570]LogModuleManager: Shutting down and abandoning module PackagesDialog (376)
+[2017.12.11-19.16.22:183][570]LogModuleManager: Shutting down and abandoning module Persona (374)
+[2017.12.11-19.16.22:183][570]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (373)
+[2017.12.11-19.16.22:183][570]LogModuleManager: Shutting down and abandoning module AnimGraph (371)
+[2017.12.11-19.16.22:183][570]LogModuleManager: Shutting down and abandoning module Kismet (368)
+[2017.12.11-19.16.22:197][570]LogModuleManager: Shutting down and abandoning module ClassViewer (366)
+[2017.12.11-19.16.22:199][570]LogModuleManager: Shutting down and abandoning module Toolbox (364)
+[2017.12.11-19.16.22:199][570]LogModuleManager: Shutting down and abandoning module ModuleUI (362)
+[2017.12.11-19.16.22:199][570]LogModuleManager: Shutting down and abandoning module MovieSceneTools (360)
+[2017.12.11-19.16.22:199][570]LogModuleManager: Shutting down and abandoning module OutputLog (358)
+[2017.12.11-19.16.22:199][570]LogModuleManager: Shutting down and abandoning module GammaUI (356)
+[2017.12.11-19.16.22:199][570]LogModuleManager: Shutting down and abandoning module Documentation (354)
+[2017.12.11-19.16.22:199][570]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (352)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module MovieScene (350)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module Niagara (348)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (344)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module AnalyticsET (342)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module PortalServices (340)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module PortalRpc (338)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module MessagingRpc (336)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module AIModule (334)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module GameplayDebugger (333)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module AITestSuite (331)
+[2017.12.11-19.16.22:200][570]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2017.12.11-19.16.22:243][570]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2017.12.11-19.16.22:243][570]LogModuleManager: Shutting down and abandoning module SteamVRController (324)
+[2017.12.11-19.16.22:243][570]LogModuleManager: Shutting down and abandoning module SteamVR (322)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (320)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (318)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module OculusLibrary (316)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module OculusInput (314)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (312)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (310)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module CableComponent (308)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (306)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module AndroidPermission (304)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (300)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module HTML5Networking (298)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module AlembicImporter (296)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module AlembicLibrary (295)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module GeometryCache (294)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (293)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (288)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module SuperSearch (287)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (284)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module PluginBrowser (282)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (280)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (278)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module DesktopPlatform (277)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module UObjectPlugin (274)
+[2017.12.11-19.16.22:244][570]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (272)
+[2017.12.11-19.16.22:245][570]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (270)
+[2017.12.11-19.16.22:245][570]LogModuleManager: Shutting down and abandoning module GitSourceControl (268)
+[2017.12.11-19.16.22:245][570]LogModuleManager: Shutting down and abandoning module SourceControl (267)
+[2017.12.11-19.16.22:245][570]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (264)
+[2017.12.11-19.16.22:245][570]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (262)
+[2017.12.11-19.16.22:245][570]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (260)
+[2017.12.11-19.16.22:245][570]LogModuleManager: Shutting down and abandoning module Paper2DEditor (258)
+[2017.12.11-19.16.22:245][570]LogModuleManager: Shutting down and abandoning module MeshPaint (257)
+[2017.12.11-19.16.22:245][570]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2017.12.11-19.16.22:247][570]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2017.12.11-19.16.22:247][570]LogModuleManager: Shutting down and abandoning module MainFrame (252)
+[2017.12.11-19.16.22:247][570]LogModuleManager: Shutting down and abandoning module HotReload (251)
+[2017.12.11-19.16.22:248][570]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (246)
+[2017.12.11-19.16.22:248][570]LogModuleManager: Shutting down and abandoning module PhysXVehicles (244)
+[2017.12.11-19.16.22:248][570]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (242)
+[2017.12.11-19.16.22:248][570]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (240)
+[2017.12.11-19.16.22:248][570]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (238)
+[2017.12.11-19.16.22:248][570]LogModuleManager: Shutting down and abandoning module UdpMessaging (236)
+[2017.12.11-19.16.22:348][570]LogModuleManager: Shutting down and abandoning module TcpMessaging (234)
+[2017.12.11-19.16.22:449][570]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (232)
+[2017.12.11-19.16.22:449][570]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (230)
+[2017.12.11-19.16.22:449][570]LogModuleManager: Shutting down and abandoning module FacialAnimation (228)
+[2017.12.11-19.16.22:449][570]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2017.12.11-19.16.22:449][570]LogModuleManager: Shutting down and abandoning module GraphEditor (225)
+[2017.12.11-19.16.22:449][570]LogModuleManager: Shutting down and abandoning module ContentBrowser (223)
+[2017.12.11-19.16.22:451][570]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (220)
+[2017.12.11-19.16.22:451][570]LogModuleManager: Shutting down and abandoning module Paper2D (218)
+[2017.12.11-19.16.22:451][570]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2017.12.11-19.16.22:451][570]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2017.12.11-19.16.22:451][570]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2017.12.11-19.16.22:451][570]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (206)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module VREditor (204)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module StringTableEditor (202)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (200)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (198)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module FunctionalTesting (196)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (194)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module UMG (192)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module UMGEditor (191)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module Sequencer (190)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module AssetTools (188)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module MessageLog (187)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (186)
+[2017.12.11-19.16.22:452][570]LogModuleManager: Shutting down and abandoning module SlateReflector (180)
+[2017.12.11-19.16.22:453][570]LogModuleManager: Shutting down and abandoning module Slate (178)
+[2017.12.11-19.16.22:453][570]LogModuleManager: Shutting down and abandoning module EditorStyle (176)
+[2017.12.11-19.16.22:458][570]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (174)
+[2017.12.11-19.16.22:458][570]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (172)
+[2017.12.11-19.16.22:458][570]LogModuleManager: Shutting down and abandoning module XAudio2 (170)
+[2017.12.11-19.16.22:458][570]LogModuleManager: Shutting down and abandoning module Networking (168)
+[2017.12.11-19.16.22:458][570]LogModuleManager: Shutting down and abandoning module Core (164)
+[2017.12.11-19.16.22:458][570]LogModuleManager: Shutting down and abandoning module AssetRegistry (162)
+[2017.12.11-19.16.22:590][570]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.11-19.16.22:590][570]LogDirectoryWatcher: A directory notification for '../../../../../Projectes Unreal/DraGone/Content/' was aborted.
+[2017.12.11-19.16.22:590][570]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.11-19.16.22:590][570]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/GearVR/Content/' was aborted.
+[2017.12.11-19.16.22:593][570]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2017.12.11-19.16.22:594][570]LogModuleManager: Shutting down and abandoning module KismetCompiler (158)
+[2017.12.11-19.16.22:594][570]LogModuleManager: Shutting down and abandoning module LevelSequence (156)
+[2017.12.11-19.16.22:595][570]LogModuleManager: Shutting down and abandoning module PhysXFormats (154)
+[2017.12.11-19.16.22:595][570]LogModuleManager: Shutting down and abandoning module MeshUtilities (152)
+[2017.12.11-19.16.22:595][570]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (151)
+[2017.12.11-19.16.22:595][570]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (149)
+[2017.12.11-19.16.22:595][570]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (147)
+[2017.12.11-19.16.22:595][570]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.12.11-19.16.22:600][570]LogDerivedDataCache: Shutdown
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.12.11-19.16.22:600][570]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module OculusRift (56)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module GearVRController (54)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module GearVR (52)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.11-19.16.22:601][570]LogOnline:Display: Unloading online subsystem: NULL
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.11-19.16.22:601][570]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.11-19.16.22:601][570]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.11-19.16.22:601][570]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B74DAF475-4C77-FD61-6906-EDA569B74EBA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.3-3561208%2B%2B%2BUE4%2BRelease-4.16&UserID=66b9745a4c8c232e18c0b89f469e9491%7C8a772a451c3746448bba5a7f3e940d88%7C6252b41c-e343-4337-a0c3-992a40578a28&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.11-19.16.22:608][570]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.11-19.16.22:610][570]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (36)
+[2017.12.11-19.16.22:610][570]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2017.12.11-19.16.22:610][570]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2017.12.11-19.16.22:610][570]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2017.12.11-19.16.22:610][570]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2017.12.11-19.16.22:610][570]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2017.12.11-19.16.22:610][570]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2017.12.11-19.16.22:610][570]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2017.12.11-19.16.22:612][570]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2017.12.11-19.16.22:612][570]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2017.12.11-19.16.22:612][570]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2017.12.11-19.16.22:612][570]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2017.12.11-19.16.22:612][570]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2017.12.11-19.16.22:612][570]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2017.12.11-19.16.22:612][570]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2017.12.11-19.16.22:612][570]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.11-19.16.22:612][570]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.11-19.16.22:612][570]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.11-19.16.22:614][570]LogExit: Exiting.
+[2017.12.11-19.16.22:626][570]Log file closed, 12/11/17 20:16:22
