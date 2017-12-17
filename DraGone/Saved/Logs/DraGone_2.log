@@ -894,3 +894,206 @@ LogInit: Object subsystem initialized
 [2017.12.17-20.26.45:250][374]LogSavePackage: Save=159.20ms
 [2017.12.17-20.26.45:250][374]LogSavePackage: Moving '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Saved/ThirdPersonExampleMap7ABFA838441920249E22869606AE33A4.tmp' to '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2017.12.17-20.26.45:270][374]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.12.17-20.40.13:341][ 79]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.17-20.40.48:052][119]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.17-20.40.49:257][216]LogSavePackage: Save=119.74ms
+[2017.12.17-20.40.49:257][216]LogSavePackage: Moving '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Saved/ThirdPersonCharacter8249B2664A55D46E8285C5BA4CFB1B2B.tmp' to '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.17-20.40.49:267][216]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.17-20.41.23:224][ 29]BlueprintLog: New page: Compile Destructible_WallsWithCharge
+[2017.12.17-20.41.24:260][130]LogSavePackage: Save=28.95ms
+[2017.12.17-20.41.24:260][130]LogSavePackage: Moving '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Saved/Destructible_WallsWithCharge76F6C9F348F8F8DE2FDB2AA3A54B0967.tmp' to '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/Destructible_Object/Destructible_WallsWithCharge.uasset'
+[2017.12.17-20.41.24:269][130]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/Destructible_Object/Destructible_WallsWithCharge.uasset
+[2017.12.17-20.41.25:999][290]LogSavePackage: Save=136.82ms
+[2017.12.17-20.41.25:999][290]LogSavePackage: Moving '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Saved/ThirdPersonExampleMap761A98EF4023FED0486B07ABACC3BE53.tmp' to '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.17-20.41.26:009][290]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.12.17-20.42.52:049][709]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.17-20.42.52:066][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.42.52:066][709]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.17-20.42.52:066][709]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.12.17-20.42.52:292][709]LogPlayLevel: PlayLevel: Blueprint regeneration took 225 ms (1 blueprints)
+[2017.12.17-20.42.52:292][709]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 17, 2017, 10:42:52 PM)
+[2017.12.17-20.42.52:293][709]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.17-20.42.52:310][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017879s)
+[2017.12.17-20.42.52:311][709]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.17-20.42.52:312][709]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2017.12.17-20.42.52:312][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019226s)
+[2017.12.17-20.42.52:363][709]LogInit: XAudio2 using 'Altavoces (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.17-20.42.52:374][709]LogInit: FAudioDevice initialized.
+[2017.12.17-20.42.52:411][709]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.17-20.42.52:414][709]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.17-21.42.52
+[2017.12.17-20.42.52:415][709]LogWorld: Bringing up level for play took: 0.002345
+[2017.12.17-20.42.52:417][709]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.896
+[2017.12.17-20.42.52:418][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.42.56:504][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.42.56:606][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.43.01:445][725]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.17-20.43.02:805][851]LogSavePackage: Save=119.34ms
+[2017.12.17-20.43.02:805][851]LogSavePackage: Moving '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Saved/ThirdPersonCharacter705FFE2741A541002A1661AEA4EE2B41.tmp' to '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.17-20.43.02:816][851]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.17-20.43.05:335][100]LogSavePackage: Save=147.91ms
+[2017.12.17-20.43.05:336][100]LogSavePackage: Moving '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Saved/ThirdPersonExampleMap7D1C2A1F49F73203ED12BCB56B84D01D.tmp' to '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.17-20.43.05:346][100]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.12.17-20.43.07:143][276]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.17-20.43.08:101][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.17-20.43.08:575][412]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.17-20.43.09:612][509]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.17-20.43.30:167][654]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.17-20.43.30:184][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.43.30:184][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.17-20.43.30:185][654]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 17, 2017, 10:43:30 PM)
+[2017.12.17-20.43.30:185][654]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.17-20.43.30:205][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020148s)
+[2017.12.17-20.43.30:206][654]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.17-20.43.30:206][654]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2017.12.17-20.43.30:206][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021516s)
+[2017.12.17-20.43.30:262][654]LogInit: XAudio2 using 'Altavoces (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.17-20.43.30:273][654]LogInit: FAudioDevice initialized.
+[2017.12.17-20.43.30:306][654]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.17-20.43.30:309][654]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.17-21.43.30
+[2017.12.17-20.43.30:309][654]LogWorld: Bringing up level for play took: 0.002312
+[2017.12.17-20.43.30:310][654]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.787
+[2017.12.17-20.43.30:311][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.43.32:361][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.43.32:444][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.43.34:594][106]Cmd: TRANSACTION UNDO
+[2017.12.17-20.43.34:594][106]LogEditorTransaction: Undo Move Components
+[2017.12.17-20.43.38:726][465]LogSavePackage: Save=136.99ms
+[2017.12.17-20.43.38:726][465]LogSavePackage: Moving '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Saved/ThirdPersonExampleMap187C50384ACD0C8F39E563B2C80A6BD8.tmp' to '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.17-20.43.38:736][465]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.12.17-20.45.11:208][759]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.17-20.45.54:499][411]LogSavePackage: Save=135.16ms
+[2017.12.17-20.45.54:499][411]LogSavePackage: Moving '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Saved/ThirdPersonCharacter5417F6BB450DDDF7F009BFB301DB07AA.tmp' to '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.17-20.45.54:508][411]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.17-20.47.24:739][130]LogSavePackage: Save=125.45ms
+[2017.12.17-20.47.24:739][130]LogSavePackage: Moving '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Saved/ThirdPersonCharacterC31CFD5F46624DF729C31495FB62AC08.tmp' to '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.17-20.47.24:749][130]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.17-20.48.51:115][791]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.12.17-20.49.08:354][594]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.17-20.49.08:372][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.49.08:372][594]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.17-20.49.08:372][594]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.12.17-20.49.08:718][594]LogPlayLevel: PlayLevel: Blueprint regeneration took 345 ms (1 blueprints)
+[2017.12.17-20.49.08:718][594]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 17, 2017, 10:49:08 PM)
+[2017.12.17-20.49.08:718][594]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.17-20.49.08:737][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018104s)
+[2017.12.17-20.49.08:738][594]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.17-20.49.08:738][594]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2017.12.17-20.49.08:738][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019494s)
+[2017.12.17-20.49.08:789][594]LogInit: XAudio2 using 'Altavoces (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.17-20.49.08:797][594]LogInit: FAudioDevice initialized.
+[2017.12.17-20.49.08:832][594]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.17-20.49.08:836][594]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.17-21.49.08
+[2017.12.17-20.49.08:836][594]LogWorld: Bringing up level for play took: 0.002614
+[2017.12.17-20.49.08:837][594]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.296
+[2017.12.17-20.49.08:837][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.49.10:490][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.49.10:582][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.49.27:446][617]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.17-20.49.27:463][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.49.27:463][617]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.17-20.49.27:463][617]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.12.17-20.49.27:677][617]LogPlayLevel: PlayLevel: Blueprint regeneration took 213 ms (1 blueprints)
+[2017.12.17-20.49.27:677][617]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 17, 2017, 10:49:27 PM)
+[2017.12.17-20.49.27:677][617]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.17-20.49.27:694][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017391s)
+[2017.12.17-20.49.27:695][617]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.17-20.49.27:695][617]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2017.12.17-20.49.27:696][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018600s)
+[2017.12.17-20.49.27:745][617]LogInit: XAudio2 using 'Altavoces (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.17-20.49.27:753][617]LogInit: FAudioDevice initialized.
+[2017.12.17-20.49.27:787][617]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.17-20.49.27:790][617]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.17-21.49.27
+[2017.12.17-20.49.27:791][617]LogWorld: Bringing up level for play took: 0.002377
+[2017.12.17-20.49.27:793][617]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.251
+[2017.12.17-20.49.27:794][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.49.29:242][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.49.29:345][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.49.37:303][705]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.17-20.49.37:833][764]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.17-20.49.38:294][816]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.17-20.49.39:274][931]LogEditorTransaction: Undo Move Components
+[2017.12.17-20.49.41:828][237]LogEditorTransaction: Redo Move Components
+[2017.12.17-20.49.47:604][866]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.47:604][866]LogEditorTransaction: Undo Move Components
+[2017.12.17-20.49.47:948][883]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.47:948][883]LogEditorTransaction: Undo Move Components
+[2017.12.17-20.49.48:375][917]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.48:375][917]LogEditorTransaction: Undo Move Components
+[2017.12.17-20.49.48:844][964]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.48:844][964]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2017.12.17-20.49.50:300][111]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.50:300][111]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.17-20.49.51:196][200]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.51:196][200]LogEditorTransaction: Undo Move Node
+[2017.12.17-20.49.51:832][261]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.51:832][261]LogEditorTransaction: Undo Move Node
+[2017.12.17-20.49.52:084][284]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.52:084][284]LogEditorTransaction: Undo Move Node
+[2017.12.17-20.49.52:340][307]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.52:340][307]LogEditorTransaction: Undo Move Node
+[2017.12.17-20.49.52:778][348]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.52:778][348]LogEditorTransaction: Undo Move Node
+[2017.12.17-20.49.53:352][404]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.53:352][404]LogEditorTransaction: Undo Move Node
+[2017.12.17-20.49.53:816][448]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.53:816][448]LogEditorTransaction: Undo Create Pin Link
+[2017.12.17-20.49.54:136][477]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.54:136][477]LogEditorTransaction: Undo Create Pin Link
+[2017.12.17-20.49.54:331][494]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.54:331][494]LogEditorTransaction: Undo Move Node
+[2017.12.17-20.49.54:535][511]Cmd: TRANSACTION UNDO
+[2017.12.17-20.49.54:535][511]LogEditorTransaction: Undo Create Pin Link
+[2017.12.17-20.49.55:897][647]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.55:897][647]LogEditorTransaction: Redo Create Pin Link
+[2017.12.17-20.49.56:140][668]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.56:140][668]LogEditorTransaction: Redo Move Node
+[2017.12.17-20.49.57:224][774]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.57:224][774]LogEditorTransaction: Redo Create Pin Link
+[2017.12.17-20.49.57:447][793]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.57:447][793]LogEditorTransaction: Redo Create Pin Link
+[2017.12.17-20.49.57:641][810]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.57:641][810]LogEditorTransaction: Redo Move Node
+[2017.12.17-20.49.57:797][822]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.57:797][822]LogEditorTransaction: Redo Move Node
+[2017.12.17-20.49.58:168][857]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.58:168][857]LogEditorTransaction: Redo Move Node
+[2017.12.17-20.49.58:362][873]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.58:362][873]LogEditorTransaction: Redo Move Node
+[2017.12.17-20.49.58:555][890]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.58:555][890]LogEditorTransaction: Redo Move Node
+[2017.12.17-20.49.58:742][906]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.58:742][906]LogEditorTransaction: Redo Move Node
+[2017.12.17-20.49.58:937][922]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.58:937][922]LogEditorTransaction: Redo Clicking on Actors
+[2017.12.17-20.49.59:114][938]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.59:114][938]LogEditorTransaction: Redo Clicking on Component (tree view)
+[2017.12.17-20.49.59:302][954]Cmd: TRANSACTION REDO
+[2017.12.17-20.49.59:302][954]LogEditorTransaction: Redo Move Components
+[2017.12.17-20.50.00:423][ 66]Cmd: TRANSACTION UNDO
+[2017.12.17-20.50.00:423][ 66]LogEditorTransaction: Undo Move Components
+[2017.12.17-20.50.01:947][214]LogTemp: Repeting last play command: Selected Viewport
+[2017.12.17-20.50.01:966][214]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.50.01:967][214]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.17-20.50.01:967][214]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.12.17-20.50.02:180][214]LogPlayLevel: PlayLevel: Blueprint regeneration took 214 ms (1 blueprints)
+[2017.12.17-20.50.02:181][214]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 17, 2017, 10:50:02 PM)
+[2017.12.17-20.50.02:181][214]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.17-20.50.02:200][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018730s)
+[2017.12.17-20.50.02:201][214]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.17-20.50.02:201][214]LogPlayLevel: PIE: World Init took: (0.001229s)
+[2017.12.17-20.50.02:201][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020281s)
+[2017.12.17-20.50.02:226][214]LogInit: XAudio2 using 'Altavoces (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.17-20.50.02:235][214]LogInit: FAudioDevice initialized.
+[2017.12.17-20.50.02:267][214]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.17-20.50.02:270][214]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.17-21.50.02
+[2017.12.17-20.50.02:270][214]LogWorld: Bringing up level for play took: 0.002283
+[2017.12.17-20.50.02:271][214]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.727
+[2017.12.17-20.50.02:301][214]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.50.07:386][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.50.07:465][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.17-20.50.09:430][  7]LogSavePackage: Save=122.04ms
+[2017.12.17-20.50.09:430][  7]LogSavePackage: Moving '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Saved/ThirdPersonCharacterF9595E9542A471172B48E0ACCC9E828F.tmp' to '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.17-20.50.09:439][  7]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.17-20.50.11:526][211]LogSavePackage: Save=141.16ms
+[2017.12.17-20.50.11:526][211]LogSavePackage: Moving '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Saved/ThirdPersonExampleMap398CC6114F7DBF98776DB1BAEF7447B8.tmp' to '../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.17-20.50.11:535][211]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Roger/Desktop/Repo DraGone/DraGone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
